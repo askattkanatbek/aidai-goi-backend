@@ -44,8 +44,6 @@ INSTALLED_APPS = [
     'profile_app',
     'cars',
     'rent',
-    'django.contrib.admin',
-    'django.contrib.auth',
 ]
 
 MIDDLEWARE = [
